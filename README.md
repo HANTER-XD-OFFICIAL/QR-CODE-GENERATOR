@@ -29,6 +29,7 @@ The entire system is built using **pure HTML, CSS, and Vanilla JavaScript** and 
 QR codes are generated using the **GOQR / QRServer public API**.
 
 API format used:https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=YOUR_TEXT
+
 When the user enters text and taps **Generate QR**:
 - The text is URL-encoded
 - The QR image is generated via the API
