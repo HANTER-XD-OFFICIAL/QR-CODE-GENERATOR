@@ -141,6 +141,32 @@ This project is intended for **educational and personal use only**.
 Do not use temporary email services for illegal or abusive activities.
 
 ---
+## 👨‍💻 Developer
+
+**Name:** MD RASEL  
+**Branding:** Powered by MD RASEL  
+
+<p align="left">
+  <a href="https://www.facebook.com/MD.RASEL.8.2.3.4" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📞 Contact
+
+<p align="left">
+  <a href="https://wa.me/8801882278234" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/MD.RASEL.8.2.3.4" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Message-4267B2?style=for-the-badge&logo=messenger&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## ⬇️ Download
 
