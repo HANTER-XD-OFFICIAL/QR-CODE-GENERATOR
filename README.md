@@ -135,4 +135,32 @@ You are free to modify, customize, and extend it for your own projects.
 
 ---
 
-**Powered by MD RASEL**
+## ⚠️ Disclaimer
+
+This project is intended for **educational and personal use only**.  
+Do not use temporary email services for illegal or abusive activities.
+
+---
+
+## ⬇️ Download
+
+<p align="left">
+  <a href="https://github.com/HANTER-XD-OFFICIAL/TEMP-MAIL/releases/tag/TEMP-MAIL_APK" target="_blank">
+    <img src="https://img.shields.io/badge/Download-App-FF5722?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+</p>
+
+> 🔧 **Note:**  
+> Replace `https://github.com/HANTER-XD-OFFICIAL/TEMP-MAIL/releases/tag/TEMP-MAIL_APK` with your app download URL  
+> (APK / Website / Play Store / Direct link)
+
+---
+## 🌍 Open Website
+
+<p align="left">
+  <a href="https://hanter-xd-official.github.io/QR-CODE-GENERATOR/" target="_blank">
+    <img src="https://img.shields.io/badge/Open-Website-6200EA?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
