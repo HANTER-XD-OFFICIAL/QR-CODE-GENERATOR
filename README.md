@@ -145,13 +145,13 @@ Do not use temporary email services for illegal or abusive activities.
 ## ⬇️ Download
 
 <p align="left">
-  <a href="https://github.com/HANTER-XD-OFFICIAL/TEMP-MAIL/releases/tag/TEMP-MAIL_APK" target="_blank">
+  <a href="https://github.com/HANTER-XD-OFFICIAL/QR-CODE-GENERATOR/releases/tag/QR-CODE_PRO" target="_blank">
     <img src="https://img.shields.io/badge/Download-App-FF5722?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
 
 > 🔧 **Note:**  
-> Replace `https://github.com/HANTER-XD-OFFICIAL/TEMP-MAIL/releases/tag/TEMP-MAIL_APK` with your app download URL  
+> Replace `https://github.com/HANTER-XD-OFFICIAL/QR-CODE-GENERATOR/releases/tag/QR-CODE_PRO` with your app download URL  
 > (APK / Website / Play Store / Direct link)
 
 ---
